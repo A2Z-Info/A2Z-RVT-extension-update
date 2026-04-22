@@ -1,8 +1,8 @@
 {
-  "version": "1.0.4",
-  "title": "What's New in 1.0.4",
+  "version": "1.0.5",
+  "title": "What's New in 1.0.5",
   "date": "2026-04-19",
-  "summary": "First Publish.",
+  "summary": "Better UI.",
   "content": "We've been listening to early feedback and this update focuses on making A2Z Extension more stable and reliable.\n\nExport Sheets has received several improvements, sheet selection is now faster, export progress is clearer, and output file naming is more consistent across different project setups.\n\nA number of background bugs have also been resolved, including fixes to the Settings panel that were causing occasional crashes on launch. The extension should now feel noticeably smoother across the board.\n\nAs always, if you run into anything unexpected please reach out. Your feedback directly shapes what we fix and build next.",
   "image_url": "https://raw.githubusercontent.com/yourname/a2z-updates/main/images/v1.2.png"
 }
