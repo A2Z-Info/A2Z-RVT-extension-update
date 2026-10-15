@@ -1,4 +1,4 @@
-# A2Z-RVT-extension-update
+# A2Z Github Information
 Revit Extension update Page
 
 **A2Z is an architecture practice based in the UK.** This is our official GitHub organisation, where we publish the software and tooling we build to support our design and BIM workflows.
