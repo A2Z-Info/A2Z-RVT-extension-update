@@ -1,0 +1,8 @@
+{
+  "version": "1.1.2",
+  "title": "BETA Release 1.1.2",
+  "date": "2026-10-17",
+  "summary": "Beta.",
+  "content": "We've been listening to early feedback and this update focuses on making A2Z Extension easier to use and more reliable.\n\nPackage Up has received several improvements. The UI has been refreshed, your Package Up preferences are now saved between sessions, and the Favorites tab inside Package Up has been improved for the Revision Manager so your go-to items are quicker to find and reuse.\n\nExporting is also smarter, with export history now saved per project so each project keeps its own record. Pressing F1 over A2Z ribbon buttons now opens the A2Z Help Desk, putting help one keypress away.\n\nA number of bugs have also been resolved, along with wider UI improvements across the add-in. The extension should now feel noticeably smoother across the board.\n\nAs always, if you run into anything unexpected please reach out. Your feedback directly shapes what we fix and build next.",
+  "image_url": "https://github.com/A2Z-Info/A2Z-RVT-extension-update/blob/main/images/v1.2.png"
+}
