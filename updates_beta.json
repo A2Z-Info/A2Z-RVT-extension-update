@@ -1,8 +1,9 @@
 {
   "version": "1.1.5-beta",
+  "tag": "v1.1.5-beta",
   "title": "BETA Release 1.1.5",
   "date": "2026-10-23",
   "summary": "More paper sizes, better IFC & NWC export, and the new Renumbering tool in beta.",
-  "content": "A2Z Revit Extension: Latest Update\n\nExport Sheets\nWe've added all American and other well-known paper sizes. This came directly from customer requests, so thank you to everyone who got in touch.\n\nIFC & NWC Exporter\nWe've made improvements to both exporters, making them more reliable and easier to use.\n\nRenumbering (Beta)\nOur new renumbering tool is now in beta and is available to beta users only. It isn't fully finished yet, so it may not work as expected in every situation. Please test it with that in mind.\n\nFeedback\nIf you have any feedback, suggestions or issues, please contact us. We read everything, and it helps shape what we build next.",
+  "content": "A2Z Revit Extension: Latest Update\n\nExport Sheets\nWe've added all American and other well-known paper sizes. This came directly from customer requests, so thank you to everyone who got in touch.\n\nIFC & NWC Exporter\nWe've made improvements to both exporters, making them more reliable and easier to use.\n\nRenumbering (Beta)\nOur new renumbering tool is now in beta and is available to beta users only. It isn't fully finished yet, so it may not work as expected in every situation. Please test it with that in mind.\n\nFeedback\nIf you have any feedback, suggestions or issues, please contact us. We read everything, and it helps shape what we build next.\n\nDownload\nIf the download button doesn't work, you can download the installer directly from our releases page: https://github.com/A2Z-Info/A2Z-RVT-extension-update/releases#release-v1.1.5-beta",
   "image_url": "https://github.com/A2Z-Info/A2Z-RVT-extension-update/blob/main/images/icon_renumber.png"
 }
