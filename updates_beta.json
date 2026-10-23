@@ -1,8 +1,8 @@
 {
-  "version": "1.1.3-beta",
-  "title": "BETA Release 1.1.3",
-  "date": "2026-10-17",
-  "summary": "Beta.",
-  "content": "We've been listening to early feedback and this update focuses on making A2Z Extension easier to use and more reliable.\n\nPackage Up has received several improvements. The UI has been refreshed, your Package Up preferences are now saved between sessions, and the Favorites tab inside Package Up has been improved for the Revision Manager so your go-to items are quicker to find and reuse.\n\nExporting is also smarter, with export history now saved per project so each project keeps its own record. Pressing F1 over A2Z ribbon buttons now opens the A2Z Help Desk, putting help one keypress away.\n\nA number of bugs have also been resolved, along with wider UI improvements across the add-in. The extension should now feel noticeably smoother across the board.\n\nAs always, if you run into anything unexpected please reach out. Your feedback directly shapes what we fix and build next.",
-  "image_url": "https://github.com/A2Z-Info/A2Z-RVT-extension-update/blob/main/images/v1.2.png"
+  "version": "1.1.5-beta",
+  "title": "BETA Release 1.1.5",
+  "date": "2026-10-23",
+  "summary": "More paper sizes, better IFC & NWC export, and the new Renumbering tool in beta.",
+  "content": "A2Z Revit Extension: Latest Update\n\nExport Sheets\nWe've added all American and other well-known paper sizes. This came directly from customer requests, so thank you to everyone who got in touch.\n\nIFC & NWC Exporter\nWe've made improvements to both exporters, making them more reliable and easier to use.\n\nRenumbering (Beta)\nOur new renumbering tool is now in beta and is available to beta users only. It isn't fully finished yet, so it may not work as expected in every situation. Please test it with that in mind.\n\nFeedback\nIf you have any feedback, suggestions or issues, please contact us. We read everything, and it helps shape what we build next.",
+  "image_url": "https://github.com/A2Z-Info/A2Z-RVT-extension-update/blob/main/images/icon_renumber.png"
 }
