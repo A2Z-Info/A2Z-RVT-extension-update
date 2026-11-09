@@ -1,8 +1,20 @@
 {
-  "version": "1.1.4",
-  "title": "What's New in 1.1.4",
-  "date": "2026-10-12",
-  "summary": "Improved User Experience.",
-  "content": "Improvements Combined PDF progress: the progress window now counts the combined PDF as its own step. With three sheets it shows four steps and reads “Exporting combined file (PDF)…” while the merge runs. Easier tick boxes: in the sheet list you can now click the background around a checkbox to select the row and tick it, so you no longer have to hit the small square. Drag to tick several rows: press in the checkbox column and drag down to highlight several rows. When you release, they all take the same tick state as the first row. Clicks in the other columns still just select. Help link: “How do I Export Sheets?” now opens the Expert Sheets section of the tools page, the same page as the ? button.",
-  "image_url": "https://github.com/A2Z-Info/A2Z-RVT-extension-update/blob/main/images/icon_export_sheets.png"
+  "version": "1.1.6",
+  "title": "What's New in 1.1.6",
+  "date": "2026-11-09",
+  "summary": "Expert Sheets now lets you choose and manage your DWG export setups, and the new ReNumber tool gets reusable rules.",
+  "content": "Expert Sheets: DWG export setups. Pick any DWG/DXF export setup stored in your project straight from Expert Sheets, and keep editing them in Revit's own dialog. If a project has none, an \"A2Z Default\" setup is created for you.\n\nReNumber: reusable rules. Build rules with multiple categories, a target parameter per category, optional family-type filters, and Constant / Increment / Field parts with numeric or A, B, C increments. Rules can be duplicated, edited, imported and exported, and your edits are never overwritten by updates.",
+  "image_url": "https://github.com/A2Z-Info/A2Z-RVT-extension-update/blob/main/images/hero_1.1.6.png",
+  "hero_image_url": "https://github.com/A2Z-Info/A2Z-RVT-extension-update/blob/main/images/hero_1.1.6.png",
+  "sections": [
+    {
+      "title": "Expert Sheets: DWG export setups",
+      "text": "Choose any DWG/DXF export setup stored in your project right from Expert Sheets, and keep editing them in Revit's own \"Modify DWG/DXF Export Setup\" dialog. If your project doesn't have one yet, an \"A2Z Default\" setup is created for you.",
+      "image_url": "https://github.com/A2Z-Info/A2Z-RVT-extension-update/blob/main/images/expert_sheets_dwg_setup.png"
+    },
+    {
+      "title": "ReNumber: reusable rules",
+      "text": "Build rules once and reuse them: several categories per rule, a target parameter for each, optional family-type filters, and Constant / Increment / Field parts with numeric or A, B, C increments. Duplicate, edit, import and export rules from the rules manager. Edited built-in rules are kept in your own folder and are never overwritten by an update."
+    }
+  ]
 }
