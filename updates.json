@@ -2,19 +2,30 @@
   "version": "1.1.6",
   "title": "What's New in 1.1.6",
   "date": "2026-11-09",
-  "summary": "Expert Sheets now lets you choose and manage your DWG export setups, and the new ReNumber tool gets reusable rules.",
-  "content": "Expert Sheets: DWG export setups. Pick any DWG/DXF export setup stored in your project straight from Expert Sheets, and keep editing them in Revit's own dialog. If a project has none, an \"A2Z Default\" setup is created for you.\n\nReNumber: reusable rules. Build rules with multiple categories, a target parameter per category, optional family-type filters, and Constant / Increment / Field parts with numeric or A, B, C increments. Rules can be duplicated, edited, imported and exported, and your edits are never overwritten by updates.",
+  "summary": "Two brand-new tools have landed in this release: Family Library and ReNumber!",
+  "content": "Two brand-new tools have landed in this release!\n\nFamily Library: Store, browse and preview your families, templates and detail items without leaving Revit. Search by name or #tag, load straight into your project or load and place, build your own palettes of favourites, and share a library with your team.\n\nReNumber: Number elements your way with reusable rules. Combine several categories in one rule, set a target parameter for each, add optional family-type filters, and build numbers from Constant / Increment / Field parts. Duplicate, edit, import and export rules whenever you like.\n\nExpert Sheets: choose any DWG/DXF export setup stored in your project right from the Format tab. If your project has none, a plain A2Z Default setup is created for you.\n\nAdditional purge parameters added to Package Up.\nAdditional tools added to the Revision Manager.",
   "image_url": "https://github.com/A2Z-Info/A2Z-RVT-extension-update/blob/main/images/hero_1.1.6.png",
   "hero_image_url": "https://github.com/A2Z-Info/A2Z-RVT-extension-update/blob/main/images/hero_1.1.6.png",
   "sections": [
     {
-      "title": "Expert Sheets: DWG export setups",
-      "text": "Choose any DWG/DXF export setup stored in your project right from Expert Sheets, and keep editing them in Revit's own \"Modify DWG/DXF Export Setup\" dialog. If your project doesn't have one yet, an \"A2Z Default\" setup is created for you.",
-      "image_url": "https://github.com/A2Z-Info/A2Z-RVT-extension-update/blob/main/images/expert_sheets_dwg_setup.png"
+      "title": "Two brand-new tools are here!",
+      "text": "Family Library and ReNumber are both new in this release."
     },
     {
-      "title": "ReNumber: reusable rules",
-      "text": "Build rules once and reuse them: several categories per rule, a target parameter for each, optional family-type filters, and Constant / Increment / Field parts with numeric or A, B, C increments. Duplicate, edit, import and export rules from the rules manager. Edited built-in rules are kept in your own folder and are never overwritten by an update."
+      "title": "Family Library",
+      "text": "Store, browse and preview your families, templates and detail items without leaving Revit. Search by name or #tag, load straight into your project or load and place, build your own palettes of favourites, and share a library with your team."
+    },
+    {
+      "title": "ReNumber",
+      "text": "Number elements your way with reusable rules. Combine several categories in one rule, set a target parameter for each, add optional family-type filters, and build numbers from Constant / Increment / Field parts. Duplicate, edit, import and export rules whenever you like."
+    },
+    {
+      "title": "Expert Sheets",
+      "text": "Expert Sheets: choose any DWG/DXF export setup stored in your project right from the Format tab. If your project has none, a plain A2Z Default setup is created for you."
+    },
+    {
+      "title": "Also in this release",
+      "text": "Additional purge parameters added to Package Up.\nAdditional tools added to the Revision Manager."
     }
   ]
 }
