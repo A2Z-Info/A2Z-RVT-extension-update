@@ -2,11 +2,15 @@
   "version": "v1.2.1",
   "title": "Minor Update 1.2.1",
   "date": "2026-11-28",
-  "summary": "A minor update with faster exports, a Revision Manager addition and general bug fixes.",
-  "content": "Expert Sheets\nImproved export speed.\n\nRevision Manager\nAdded Create New Revision Sequence.\n\nGeneral Bug Fixes\n• Revit 2023 failing to launch Expert Sheets: resolved.\n• Unable to export sheets with missing parameters: fixed.\n• ReNumber integer 48 error: fixed.\n• View Creator (beta): alignment updated.",
+  "summary": "A minor update with big Family Library improvements, faster exports, a Revision Manager addition and general bug fixes.",
+  "content": "Family Library\nMajor improvements, all within the extension:\n• Edit families loaded into your project.\n• Redirect where a family file is saved.\n• Select all in project.\n• Edit family thumbnails, tags, file names and type names.\n\nExpert Sheets\nImproved export speed.\n\nRevision Manager\nAdded Create New Revision Sequence.\n\nGeneral Bug Fixes\n• Revit 2023 failing to launch Expert Sheets: resolved.\n• Unable to export sheets with missing parameters: fixed.\n• ReNumber integer 48 error: fixed.\n• View Creator (beta): alignment updated.",
   "image_url": "https://github.com/A2Z-Info/A2Z-RVT-extension-update/blob/main/images/top_banner.png",
   "hero_image_url": "https://github.com/A2Z-Info/A2Z-RVT-extension-update/blob/main/images/top_banner.png",
   "sections": [
+    {
+      "title": "Family Library",
+      "text": "Major improvements, all within the extension:\n• Edit families loaded into your project.\n• Redirect where a family file is saved.\n• Select all in project.\n• Edit family thumbnails, tags, file names and type names."
+    },
     {
       "title": "Expert Sheets",
       "text": "Improved export speed."
